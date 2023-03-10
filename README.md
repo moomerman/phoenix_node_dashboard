@@ -2,7 +2,7 @@
 
 This library adds a new Page to Pheonix LiveDashboard to visualise connected Nodes.
 
-TODO: Add Screenshot!
+![Screenshot](https://user-images.githubusercontent.com/23323/224387758-fe8ad353-c9c7-42d0-a9c2-9f2856a81c3b.png)
 
 ## Installation
 
