@@ -47,7 +47,8 @@ defmodule Phoenix.NodeDashboard.MixProject do
   defp deps do
     [
       {:jason, "~> 1.0"},
-      {:phoenix_live_dashboard, "~> 0.7.2"}
+      {:phoenix_live_dashboard, "~> 0.7.2"},
+      {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end
 end
